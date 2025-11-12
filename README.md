@@ -32,11 +32,4 @@ Every project I work on aims to simplify complex backend workflows while maintai
 
 ---
 
-### 💬 Let's Connect
-📦 [GitHub](https://github.com/Guddusaraf04)  
-💼 [LinkedIn](#) *(add your link)*  
-🐍 Python is my core, FastAPI is my weapon, and security is always my mindset.
-
----
-
 > _“Write less code, ship faster, stay secure.”_
