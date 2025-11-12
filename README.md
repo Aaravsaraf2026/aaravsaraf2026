@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I'm Tarun (aka Guddu)
 
-<!--
-**Guddusaraf04/guddusaraf04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Engineer | FastAPI | Python Async | Security-First Developer**
 
-Here are some ideas to get you started:
+I build **high-performance backend systems** using **FastAPI**, **Redis**, and **PostgreSQL**, with a strong focus on **scalability**, **clean architecture**, and **security**.  
+Every project I work on aims to simplify complex backend workflows while maintaining production-grade reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 What I Do
+- 🧩 Design modular backend architectures with FastAPI & async Python  
+- 🔒 Focus on security-first coding practices (OAuth2, JWT, Role-Based Access Control)  
+- ⚙️ Build developer helpers & micro-libraries for faster backend development  
+- 🐘 Integrate relational & in-memory databases (PostgreSQL, Redis)  
+- 🧠 Explore real-world patterns like workers, rate-limiters, and background tasks  
+
+---
+
+### 🧰 My Current Projects
+- **Redis Worker Helper Toolbox** — Simplifies Redis worker syntax with production-grade debugging  
+- **Google OAuth2 for FastAPI** — Security-first helper library for seamless Google authentication  
+- **DBPro Engine** *(coming soon)* — Unified database management helper for async systems  
+
+---
+
+### ⚡ Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**Frameworks:** FastAPI, AsyncIO, Pydantic  
+**Databases:** PostgreSQL, Redis, SQLite  
+**Tools:** Docker, Git, Pytest, Alembic  
+**Focus Areas:** Asynchronous Programming, Security, Performance Optimization  
+
+---
+
+### 💬 Let's Connect
+📦 [GitHub](https://github.com/Guddusaraf04)  
+💼 [LinkedIn](#) *(add your link)*  
+🐍 Python is my core, FastAPI is my weapon, and security is always my mindset.
+
+---
+
+> _“Write less code, ship faster, stay secure.”_
